@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./image/ss4.png)
+![](./images/ss4.png)
 
 
 
