@@ -2,7 +2,7 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
     color: hsl(218, 44%, 22%);
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsl(212, 45%, 89%);
     margin: 0;
     padding: 0;
     display: flex;
@@ -49,6 +49,7 @@ footer {
     background-color: white;
 }
 .QrCodeImage{
+    margin-top: 15px;
     width: 288px;
     height: 288px;
     justify-content: center;
